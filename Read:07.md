@@ -69,3 +69,26 @@ To return a value other than the default, a function must have a `return` statem
 > For more information visit [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions).
 
 
+## *Control flow:
+
+_The control flow_: is the order in which the computer executes statements in a script.(Code is run in order from the first line in the file to the last line).
+
+![control flow](cf.png)
+
+A typical script in JavaScript includes many control structures, including conditionals, **loops**( a sequence of instructions that is continually repeated until a certain condition is met in computer programming) and **functions**.
+
+Example:
+
+for(var i = 0; i < 10; i++){
+
+  console.log(i)
+
+}
+
+This loop will print numbers 0-9, will stop when condition is met (i = 10)
+
+
+> For more information visit [developer.mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow).
+
+
+
