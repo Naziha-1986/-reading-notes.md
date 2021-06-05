@@ -40,7 +40,10 @@ operators actually return the value of one of the specified operands.
 For more information visit
 [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators).
 
+
+
 ## Functions:
+
 In JavaScript, functions are **first-class objects**, because they can have properties and methods just like any other object.
 
 A function in JavaScript is similar to a *procedure*—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
@@ -90,6 +93,26 @@ This loop will print numbers 0-9, will stop when condition is met (i = 10)
 
 
 > For more information visit [developer.mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow).
+
+
+## *Function Invocation:
+
+
+**The code inside the function will execute when "something" invokes (calls) the function:**
+
+* When an event occurs (when a user clicks a button).
+* When it is invoked (called) from JavaScript code.
+* Automatically (self invoked).
+
+-Function Return:
+When JavaScript reaches a `return` statement, the function will **stop executing**.
+
+### Why Functions?
+1. You can reuse code: Define the code once, and use it many times.
+
+2. You can use the same code many times with different arguments, to produce different results.
+
+> For more information visit [w3schools](https://www.w3schools.com/js/js_functions.asp).
 
 
 
