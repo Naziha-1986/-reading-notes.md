@@ -39,7 +39,7 @@ JavaScript provides three different value-comparison operations:
 
 7. *Object* :it is simply a collection of properties in the form of name and value pairs.
 
-![js2](js2.jpg)
+![js2](jst1.jpg)
 
 >Vist [developer.mozillat](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for more information.
 
