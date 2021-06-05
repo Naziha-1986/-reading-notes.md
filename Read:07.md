@@ -1,7 +1,7 @@
 # *Expressions and operators:
 
 
-![operatorstypes](oj.jpg)
+![operators types](oj.jpg)
 
 -JavaScript has the following types of operators:
 
@@ -33,8 +33,9 @@ operators actually return the value of one of the specified operands.
 
 ![relational operators](ro.jpg)
 
-![jj]
-(jj.png)
+
+![jj](jj.png)
+
 
 For more information visit
 [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators).
