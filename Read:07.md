@@ -11,6 +11,7 @@ That is, x = y assigns the value of y to x.
 
 ![coparison operators](co.png)
 
+
 * *Arithmetic operators* : it takes numerical values (either literals or variables) as their operands and returns a single numerical value.
 ![arithmatic operation](ao.png)
 
@@ -26,5 +27,9 @@ operator
 * *Unary operators*: it is an operation with only one operand.
 
 * *Relational operators*: it compares its operands and returns a Boolean value based on whether the comparison is true.
+
+![relational operators](ro.jpg)
+
+
 For more information visit
 [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators).
