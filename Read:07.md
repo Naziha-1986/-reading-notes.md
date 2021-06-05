@@ -1,7 +1,8 @@
 # *Expressions and operators:
-**1.Operators:**
 
-![operatorstypes](Oper.jpg)
+
+![operatorstypes](oj.jpg)
+
 -JavaScript has the following types of operators:
 
 * *Assignment operators*(=): it _**assigns**_ a value to its left operand based on the value of its right operand.
@@ -19,10 +20,10 @@ That is, x = y assigns the value of y to x.
 
 * *Logical operators*(&& and ||):typically used with Boolean (logical) values; when they are, they return a Boolean value. 
 operators actually return the value of one of the specified operands.
-* *String operators*
+* *String operators*.
 
 * *Conditional (ternary)* : it is the only JavaScript operator that takes **three operands**. The operator can have one of two values based on a condition.
-operator
+![coo](coo.jpg)
 
 * *Comma operator*: (,) evaluates both of its operands and returns the value of the last operand. This operator is primarily used inside a for loop, to allow multiple variables to be updated each time through the loop. 
 
@@ -48,12 +49,23 @@ A function in JavaScript is similar to a *procedure*—a set of statements that 
 🙄
 
 ### *Defining functions:🤩
--Functions are also called a **function declaration**, or **function statement**.
-it consists of the `function`keyword, followed by:
+
+There are several ways to define functions:
+
+1. **function declaration** :it defines a function with the specified parameters.
+
+2. **function expression**: is similar to and has the same syntax as a function declaration,but  Function expressions are not hoisted, unlike function declarations. You can't use function expressions before you create them.
+
+-Functions consists of the `function`keyword, followed by:
 
 * The name of the function.
-* A list of parameters to the function, enclosed in parentheses and separated by commas.
+* A list of parameters(The name of an argument to be passed to the function) to the function, enclosed in parentheses and separated by commas.
 * The JavaScript statements that define the function, enclosed in curly brackets, {...}.
 
 ![fd](fd.png)
+
+To return a value other than the default, a function must have a `return` statement that specifies the value to return.
+
+> For more information visit [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions).
+
 
