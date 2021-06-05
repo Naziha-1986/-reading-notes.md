@@ -23,7 +23,9 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 |Read:03 | [link](https://replit.com/@Naziha86/reading-notesmd#Read:03.md)|
 |Read:04| [link](https://replit.com/@Naziha86/reading-notesmd#Read:04.md)|
 |Read:06|[link](https://replit.com/@Naziha86/reading-notesmd#Read:06.md)
-|Read:07|[link]()
+|Read:07|[link](https://replit.com/@Naziha86/reading-notesmd#Read:07.md)
+|Read:08|[link](https://replit.com/@Naziha86/reading-notesmd#Read:08.md)
+
 
 
 
