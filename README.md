@@ -43,18 +43,17 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
 |  content       | link |
 | ----------    | ----------- |
-|Read:01 | [link](https://naziha-1986.github.io/reading-notes.md/Read:01) |
-|Read:02|[link](https://naziha-1986.github.io/reading-notes.md/Read:02)
-|Read:03| [link](https://naziha-1986.github.io/reading-notes.md/Read:03)|
-|Read:04| [link](https://naziha-1986.github.io/reading-notes.md/Read:04)|
-|Read:05| [link](
-|Read:06|[link](https://naziha-1986.github.io/reading-notes.md/Read:06)
-|Read:07|[link](https://naziha-1986.github.io/reading-notes.md/Read:07)
-|Read:08|[link](https://naziha-1986.github.io/reading-notes.md/Read:08)
-|Read:09|[link](
-|Read:10|[link](
-|Read:11|[link](
-|Read:12|[link](
-|Read:13|[link](
-|Read:14|[link](
-|Read:15|[link](
+|Read:01 |[link]()    |
+|Read:02|[link]()     |
+|Read:03| [link]()    |
+|Read:04| [link]()    |
+|Read:05| [link]()    |
+|Read:06|[link]()     |
+|Read:07|[link]()     |
+|Read:08|[link]()     | 
+|Read:09|[link]()     |
+|Read:11|[link]()     |
+|Read:12|[link]()     |
+|Read:13|[link]()     |
+|Read:14|[link]()     |
+|Read:15|[link]()     |
