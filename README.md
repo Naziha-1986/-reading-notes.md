@@ -44,7 +44,7 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
 |  content       | link |
 | ----------    | ----------- |
-|Read:01 |[link]()    |
+|class-01 |[link]()    |
 |Read:02|[link]()     |
 |Read:03| [link]()    |
 |Read:04| [link]()    |
