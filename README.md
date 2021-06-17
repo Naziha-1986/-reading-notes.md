@@ -1,19 +1,18 @@
 # Introdution: 
 
- _**Hi every one **_ :clap:
+ _**Hi every one **_  :clap:
 
 My name is **Naziha Qawasmeh** from Joradn. Iam 34 years old.I graduated from Yarmouk Universiy. 
 
-By the way, Iam an *Accountant* :woman_office_worker:.I obtained Master degree in Accounting Major in 2020.
+By the way, Iam an *Accountant*  :woman_office_worker: .I obtained Master degree in Accounting Major in 2020.
 
 I joined to your team to become a web developer and to have the ability to design web pages that will help me in my work- when i get one- and improve accounting field in general.
 
 _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
-### *nice to meet you all & Thank you for visiting my site *. :wink: 
-                      ***********************************************************************
+### *nice to meet you all & Thank you for visiting my site *. :wink:   
 
-# Code 102 Reading Notes:
+                   ----------------------------------------------------------------------------------
 
 *This is a table contains all Code 102 Assignments:* 
 
@@ -30,7 +29,7 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 |Read:07|[link](https://naziha-1986.github.io/reading-notes.md/Read:07)
 |Read:08|[link](https://naziha-1986.github.io/reading-notes.md/Read:08)
 
-                  *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+                  ------------------------------------------------------------------------------
                   
 # Code 201 Reading Notes:
 
