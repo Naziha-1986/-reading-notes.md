@@ -6,9 +6,10 @@
 
 
 
-_this book consider agreat book to teach you every thing about  HTML &SCC  beacuse it makes things easier to learn & help you to creat web pages.-
+*this book consider agreat book to teach you every thing about  HTML &SCC  beacuse it makes things easier to learn & help you to creat web pages.*
 
-**1. how can you access to the web:**
+`Question #1` ** how can you access to the web:**
+
 `Answer` can  acceyopuss the web
 
 
