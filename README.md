@@ -12,7 +12,7 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
 ### *nice to meet you all & Thank you for visiting my site *. :wink:   
 
-(*(*(*(*(*(*(*(*(*(*(*(**(*(*(*(*(*(*(*(*(*(*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)
+
 
 # 1. Code 102 Reading Notes:
 
@@ -31,8 +31,8 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 |Read:07|[link](https://naziha-1986.github.io/reading-notes.md/Read:07)
 |Read:08|[link](https://naziha-1986.github.io/reading-notes.md/Read:08)
 
-                  ------------------------------------------------------------------------------
-                  
+             
+             
 # 2. Code 201 Reading Notes:
 
 **_Hi everyone_**
