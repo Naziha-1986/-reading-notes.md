@@ -12,7 +12,7 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
 ### *nice to meet you all & Thank you for visiting my site *. :wink:   
 
-                   ----------------------------------------------------------------------------------
+(*(*(*(*(*(*(*(*(*(*(*(**(*(*(*(*(*(*(*(*(*(*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)*)
 
 # 1. Code 102 Reading Notes:
 
