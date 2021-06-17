@@ -14,7 +14,8 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
                    ----------------------------------------------------------------------------------
 
-1.# Code 102 Reading Notes:
+# 1. Code 102 Reading Notes:
+
 *This is a table contains all `Code 102 Assignments`:* 
 
 ## Table of contents:
@@ -32,7 +33,7 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
                   ------------------------------------------------------------------------------
                   
-2. # 'Code 201 Reading Notes':
+# 2. Code 201 Reading Notes:
 
 **_Hi everyone_**
 
