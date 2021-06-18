@@ -113,7 +113,7 @@ number or any other character). **it should be for one element only on the page*
 `Answer`
 *block elements* start on a new line in the browser window.but *inline elements* appear to continue on the same line as their neighbouring elements.
 
-![block &inline](https://github.com/Naziha-1986/reading-notes.md/blob/main/block%201.png)
+![block &inline](https://th.bing.com/th/id/Rc68de59a13d35c64092aac603b180154?rik=iuxZVJuyBRzwmw&riu=http%3a%2f%2fnetdna.webdesignerdepot.com%2fuploads%2f2012%2f08%2fboxmodel-block-vs-inline.png&ehk=4BnDF03Yixf8L34iMIX9UIgzcEn6xW0NLM4rvNwmww8%3d&risl=&pid=ImgRaw)
 
 ![block & inline elements](https://github.com/Naziha-1986/reading-notes.md/blob/main/block2.jpg)
 
