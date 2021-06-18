@@ -35,7 +35,7 @@ just using HTML and CSS.
 `Answer`
 
 
-![web](https://github.com/Naziha-1986/reading-notes.md/blob/main/server.jpg)
+![web](https://th.bing.com/th/id/Rfe44c719ceace1d1c50af664ac3f5b03?rik=do8iKWFysPQceg&riu=http%3a%2f%2fwww.htmlandcssbook.com%2fimages%2fpress%2fbook-maps.jpg&ehk=tGP4GiJrNacRp2OZtt2M6tiB%2bKcylv4%2bQFMOXsm4vmc%3d&risl=&pid=ImgRaw)
 
 > This image was taken from the original book page 9+10)
 
