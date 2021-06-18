@@ -1,5 +1,5 @@
 
-# Jon Ducket book Summriaztion:
+# 1. Jon Ducket book Summriaztion:
 
 ## Title of the book:"_HTML & CSS :Design and Build Websites_"
 ![img](https://github.com/Naziha-1986/reading-notes.md/blob/main/book.jpg)
@@ -28,6 +28,7 @@ just using HTML and CSS.
 `Question #3` **Why we need several of HTML & CSS?**
 
 `Answer` When web was first created ,we used several versions of HTML and CSS. each intended to be an improvement on the previous version. for example: _HTML5 & CSS3_(Of course you should understand the earlier versions of them).
+
 
 `Question #4`**How the Web Works?**
 
@@ -202,6 +203,13 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
  `Question #20` **what is the importance of Good navigation?**
  
  `Answer`Good navigation helps users understand what your site is about and how it is organized.
+ 
+ ![navigation bar](https://github.com/Naziha-1986/reading-notes.md/blob/main/nav1.jpg)
+ 
+ 
+ # 2. Jon Ducket book Summriaztion:
+
+## Title of the book:"__"
  
  
  
