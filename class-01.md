@@ -163,11 +163,11 @@ overall meaning.(for example:pullquote or glossary).
 * Linking Around Block-Level Elements `<a>`:This allows you to turn an entire block into a link.
 (this is not a new element in HTML5, but it was not seen as a correct usage of the `<a>` element in earlier versions of HTML).
  
-`Question #15` **What is your primary goal?**
+`Question #16` **What is your primary goal?**
 
-`Answer`  your basic primary should be focused upon your visitors.It's very important to understand who your target audience is, why they would visit to your site, what type of information they want to find and when they are come back.
+`Answer`  your  primary goal should be focused upon your visitors.It's very important to understand who your target audience is, why they would visit to your site, what type of information they want to find and when they are come back.
 
- `Question #16`**What is site map?**
+ `Question #17`**What is site map?**
  
  `Answer` it is creating a diagram of the pages that will be used to structure the site.it shows how those pages can be grouped .
  you can use card sorting technique To help you decide what information should go on each page.
@@ -175,7 +175,7 @@ A site map will usually begin with the _homepage_.
 
 ![site map](https://github.com/Naziha-1986/reading-notes.md/blob/main/sitemap.png)
 
-`Question #17` ** What is WireFrame?**
+`Question #18` ** What is WireFrame?**
 
 `Answer`  
 
@@ -186,7 +186,7 @@ You should not include the color scheme, font choices, backgrounds or images for
 Visual hierarchy refers to the order in which your eyes perceive what they seeThe wireframes make design easy to understand  because you know what kind of information you want to appear on your web page.
 
 
- `Question #18 `**How design can be used to effectively communicate the services of a company?**
+ `Question #19 `**How design can be used to effectively communicate the services of a company?**
  
  `Answer`  Most of users skim across entire web pages,they don't read each single word so you can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for.
  
@@ -195,12 +195,12 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
  * Style: you can differentiate similar elements by adding style to one of them.
   
   
- `Question #19` **Why we use Grouping?**
+ `Question #20` **Why we use Grouping?**
  
  `Answer` Grouping  makes pieces of information related together,so it can make a design easier to comprehend. You can use grouping and similarity to help simplify the information you present.
  
  
- `Question #20` **what is the importance of Good navigation?**
+ `Question #21` **what is the importance of Good navigation?**
  
  `Answer`Good navigation helps users understand what your site is about and how it is organized.
  
@@ -226,9 +226,26 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
   `Question #2` **what are HTML attributes and CSS properties?**
   
   `Answer`
-  
+  * HTML attributes
  
  ![html attributes](https://github.com/Naziha-1986/reading-notes.md/blob/main/html%20at.png)
+ 
+ * CSS properties
+ 
+ ![css properties](https://github.com/Naziha-1986/reading-notes.md/blob/main/css%20pro.gif)
+ 
+`Question #3` **What is a script and how do I create one?**
+
+  `Answer`
+  **A script**: is a series of instructions are followed by computer one-by-one in the order set out to achieve a specific goal.Some scripts are simple deal with one scenario and Other scripts can perform many tasks.
+  
+  **to creat a script** you need to:
+  
+  1. _determine what is your goal_ and then list the tasks that you need in order to achieve it.
+  2.  _design the script_: you should split your goal into tasks that will help you to achieve your goal (flow chart).
+  3.  _code each step-: you should write a programming language that the computer can understands for each step. 
+  
+  
  
  
 Try out and download all of the code for this book online at:
