@@ -37,14 +37,18 @@ just using HTML and CSS.
 
 
 
-`Question #5`Why you need to understand how to structure documents?
+`Question #5`**Why you need to understand how to structure documents?**
 
  `Answer`  In all kinds of documents, structure is important to make readers  understand the messages you are trying to convey 
 and to navigate around the document. So, it will help them to learn how to write web pages.
 _For example:The use of headings and subheadings in any document often reflects a hierarchy of 
 information (structure word documents). a document might start with a large heading, followed by an introduction or the most important information.
 
+![headings and subheadings](https://github.com/Naziha-1986/reading-notes.md/blob/main/haedings.jpg)
 
+`Question #6` **Whatv is HTML code?**
+
+`Answer`
 
 
 
