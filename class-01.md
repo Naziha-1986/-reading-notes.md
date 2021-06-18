@@ -263,7 +263,7 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
  
 
  
- ![HTML-CSS-JS](https://github.com/Naziha-1986/reading-notes.md/blob/main/-html-css-and-js-2-638.jpg)
+ ![HTML-CSS-JS](
  
 Try out and download all)
 of the code for this book online at:
