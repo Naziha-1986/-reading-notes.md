@@ -160,9 +160,17 @@ overall meaning.(for example:pullquote or glossary).
 * Figures `<figure>  <figcaption>`: It can be used to contain any content that is referenced from the main flow of an article (not just images).
 * Sectioning elements `<div>`.
 * Linking Around Block-Level Elements `<a>`:This allows you to turn an entire block into a link.
-(this is not a new element in HTML5, but it was not seen as a correct usage of the <a> element in earlier versions of HTML)
+(this is not a new element in HTML5, but it was not seen as a correct usage of the `<a>` element in earlier versions of HTML).
  
+`Question #15` **What is your primary goal?**
 
+`Answer`  your basic primary should be focused upon your visitors.It's very important to understand who your target audience is, why they would visit to your site, what type of information they want to find and when they are come back.
+
+ `Question #16`**What is site map?**
+ 
+ `Answer` it is creating a diagram of the pages that will be used to structure the site.it shows how those pages can be grouped .
+ you can use card sorting technique To help you decide what information should go on each page.
+A site map will usually begin with the _homepage_. 
 
 Try out and download all of the code for this book online at:
 http://www.htmlandcssbook.com/code/
