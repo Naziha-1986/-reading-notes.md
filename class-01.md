@@ -79,7 +79,7 @@ made up of **two parts**: a _name_ and a _value_, separated by an equals sign.fo
 There have also been several versions of each browser used to view web pages, each of which implements new code.
 
 
-![HTML versions](https://github.com/Naziha-1986/reading-notes.md/blob/main/Html%20versions.jpg)
+![HTML versions](https://4.bp.blogspot.com/-NIxw5wR_y_0/Wg-j7Dkc3_I/AAAAAAAAAXU/sroCliXoJFgpCiWChWo9cCOEvPCbEHncACLcBGAs/s1600/Html%2Bversions.jpg)
 
 
 Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using. 
