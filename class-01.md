@@ -105,7 +105,7 @@ number or any other character). **it should be for one element only on the page*
 **the elements that have the same class attribute share the same value.**
 
 
-![ID &Class](https://github.com/Naziha-1986/reading-notes.md/blob/main/id%20%26%20class.pnghttps://th.bing.com/th/id/R94f2acf9136639e167b7a21bd2f271ae?rik=26Y7kG3aLjdBsQ&riu=http%3a%2f%2fbbensch09.github.io%2fimgs%2fclass-vs-id-example.png&ehk=jhnEoGEAGDkTVZUf1EqNKykoClKmP7xVrXUmP6VPxfw%3d&risl=&pid=ImgRaw)
+![ID &Class](https://th.bing.com/th/id/R94f2acf9136639e167b7a21bd2f271ae?rik=26Y7kG3aLjdBsQ&riu=http%3a%2f%2fbbensch09.github.io%2fimgs%2fclass-vs-id-example.png&ehk=jhnEoGEAGDkTVZUf1EqNKykoClKmP7xVrXUmP6VPxfw%3d&risl=&pid=ImgRaw)
 
 
 `Question #11` **What is the difference between Block & Inline Elements?**
