@@ -69,7 +69,7 @@ HTML elements are made up of  **two tags**: an opening tag (<html>) and a closin
 made up of **two parts**: a _name_ and a _value_, separated by an equals sign.for example:
 
 
-![html attribute](https://github.com/Naziha-1986/reading-notes.md/blob/main/html-tag-attributes.png)
+![html attribute](https://th.bing.com/th/id/R76ef5eda12c47ac68aa2c07c5739811d?rik=vMtevLVzg8xDhw&pid=ImgRaw)
 
 ![HTML syntax](https://github.com/Naziha-1986/reading-notes.md/blob/main/html-syntax.png)
 
