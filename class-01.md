@@ -245,7 +245,18 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
   2.  _design the script_: you should split your goal into tasks that will help you to achieve your goal (flow chart).
   3.  _code each step-: you should write a programming language that the computer can understands for each step. 
   
+  ![flow chart](https://github.com/Naziha-1986/reading-notes.md/blob/main/The-Flowchart-.png)
   
+  
+`Question #4` **How a browser interprets the HTML code and applies styling to it?**
+
+ `Answer` 
+ 1. a browser receive a page as HTML code & see each page on a website  as separate document .
+ 2. creat a model of the page & store it in the memory.
+ 3.  use a rendering engine to show the page on the screen.
+ 
+ `Question #5` **How HTML, CSS, & JAVASCRIPT fit together?**
+ `Answer` 
  
  
 Try out and download all of the code for this book online at:
