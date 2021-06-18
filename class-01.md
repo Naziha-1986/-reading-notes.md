@@ -172,5 +172,12 @@ overall meaning.(for example:pullquote or glossary).
  you can use card sorting technique To help you decide what information should go on each page.
 A site map will usually begin with the _homepage_. 
 
+![site map](https://github.com/Naziha-1986/reading-notes.md/blob/main/sitemap.png)
+
+`Question #17` ** What is WireFrame?**
+
+
+
+
 Try out and download all of the code for this book online at:
 http://www.htmlandcssbook.com/code/
