@@ -54,7 +54,7 @@ information (structure word documents). a document might start with a large head
 
 `Answer`
 
-![HTMLcode](https://github.com/Naziha-1986/reading-notes.md/blob/main/html%20code.jpg)
+![HTMLcode](https://th.bing.com/th/id/Rf324613e5cee25a11f56bf5f8a4d9f7d?rik=hCKEUgm0QLxbEQ&riu=http%3a%2f%2ffreehtmldesigns.com%2fwp-content%2fuploads%2f2020%2f07%2fHTML-code.jpg&ehk=XfKZVsXXxiFt0JAbKTpuexIi3oTDjsBNO2MUkAC0m84%3d&risl=&pid=ImgRaw)
 
 
 The HTML code (*in red*) is made up of characters that live inside angled brackets —( called: **HTML elements**).
