@@ -207,6 +207,11 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
  ![navigation bar](https://github.com/Naziha-1986/reading-notes.md/blob/main/nav1.jpg)
  
  
+ >you can download all of the code for this book online at this [link](http://www.htmlandcssbook.com/code/)
+
+
+ 
+ 
  # 2. Jon Ducket book Summriaztion:
 
 ## Title of the book:"_JavaScript and JQuery: Interactive Front-End Web Development_"
@@ -263,8 +268,14 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
  
 
  
- ![HTML-CSS-JS](
+ ![HTML-CSS-JS](https://github.com/Naziha-1986/reading-notes.md/blob/main/3-1N.jpg)
  
-Try out and download all)
-of the code for this book online at:
-http://www.htmlandcssbook.com/code/
+ `Question #6` **How do i write a script for a web page?**
+ 
+ * It is best to keep JavaScript code in its own JavaScript file (.js extension).
+ * The HTML `<script> `element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). 
+ * When the browser comes across a <script> element, it stops to load the script and then checks to see if it needs to do anything. 
+ 
+ 
+  
+ 
