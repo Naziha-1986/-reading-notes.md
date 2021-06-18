@@ -60,21 +60,32 @@ HTML elements are made up of  **two tags**: an opening tag (<html>) and a closin
 
 `Question #7`**What do attributes tell us?**
 
-`Answer`Attributes give us additional information about the contents of an element. They appear on the opening tag of the element and are 
+`Answer` Attributes give us additional information about the contents of an element. They appear on the opening tag of the element and are 
 made up of **two parts**: a _name_ and a _value_, separated by an equals sign.for example:
 
 
 ![html attribute](https://github.com/Naziha-1986/reading-notes.md/blob/main/html-tag-attributes.png)
 
-## The Evolution of HTML:
-Each new version was designed to be an improvement on the last (with new elements and attributes added and older code removed).
+`Question #8`What is  The Evolution of HTML:
+
+`Answer` Each new version was designed to be an improvement on the last (with new elements and attributes added and older code removed).
 There have also been several versions of each browser used to view web pages, each of which implements new code.
 
 ![HTML versions](https://github.com/Naziha-1986/reading-notes.md/blob/main/Html%20versions.jpg)
 
-Because there have been several versions of HTML, each 
-web page should begin with a DOCTYPE declaration to tell a 
-browser which version of HTML the page is using. 
+Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using. 
+
+![doctype in HTML5](https://github.com/Naziha-1986/reading-notes.md/blob/main/OIP.jpg)
+
+`Question #9` **How can you make a comment in HTML?**
+
+`Answer` You can add a comment to your code that will not be visible in the user's browser and add the text between these characters by using this:
+`<!-- comment goes here -->`
+
+`Question #10` **What is the difference between ID & Class attribute?**
+`Answer`
+* **ID Attribute**is used to  _uniquely identify_ that element from other elements on the page. Its value should start with a letter or an underscore (not a 
+number or any other character). **it should be for one element only on the page**.
 
 
 
