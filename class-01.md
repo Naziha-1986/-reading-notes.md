@@ -209,7 +209,8 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
  
  # 2. Jon Ducket book Summriaztion:
 
-## Title of the book:"__"
+## Title of the book:"_JavaScript and JQuery: Interactive Front-End Web Development_"
+
  
  
  
