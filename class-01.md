@@ -48,7 +48,7 @@ and to navigate around the document. So, it will help them to learn how to write
 _For example:The use of headings and subheadings in any document often reflects a hierarchy of 
 information (structure word documents). a document might start with a large heading, followed by an introduction or the most important information.
 
-![headings and subheadings](https://github.com/Naziha-1986/reading-notes.md/blob/main/haedings.jpg)
+![headings and subheadings](https://image.slidesharecdn.com/textfeaturespowerpoint-140109211555-phpapp01/95/text-features-power-point-10-638.jpg?cb=1389302177)
 
 `Question #6` **What is HTML code?**
 
