@@ -2,7 +2,7 @@
 # 1. Jon Duckett book Summarization:
 
 ## Title of the book: "_HTML & CSS :Design and Build Websites_"
-![img](https://github.com/Naziha-1986/reading-notes.md/blob/main/book.jpg)
+![img](https://th.bing.com/th/id/R3ce6089db71fc309e0b093a9613070a1?rik=pdXZ0bpEHVsDZg&riu=http%3a%2f%2fbilder.buecher.de%2fprodukte%2f37%2f37344%2f37344139z.jpg&ehk=b1Jsp6EiAmGAwmW%2bh9syzqZFKyEv7hG3noj8mNI1U7Q%3d&risl=&pid=ImgRaw)
 
 
 
