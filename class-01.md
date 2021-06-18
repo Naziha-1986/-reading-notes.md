@@ -71,7 +71,7 @@ made up of **two parts**: a _name_ and a _value_, separated by an equals sign.fo
 
 ![html attribute](https://th.bing.com/th/id/R76ef5eda12c47ac68aa2c07c5739811d?rik=vMtevLVzg8xDhw&pid=ImgRaw)
 
-![HTML syntax](https://github.com/Naziha-1986/reading-notes.md/blob/main/html-syntax.png)
+![HTML syntax](https://th.bing.com/th/id/Raae0d0314e7c6dcbb1fa3faefa48f922?rik=pZPI6%2fQyFAXO4g&riu=http%3a%2f%2fdesarrolloweb.dlsi.ua.es%2fcursos%2f2011%2fhtml5-css3%2fimages%2fhtml-syntax.png&ehk=heJUdrOp1l7CHPuJ%2b%2bIh%2bj3vfmYX9qgH0mmrSiaOzIA%3d&risl=&pid=ImgRaw)
 
 `Question #8`What is  The Evolution of HTML:
 
