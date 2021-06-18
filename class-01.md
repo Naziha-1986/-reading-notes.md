@@ -216,7 +216,7 @@ Visual hierarchy refers to the order in which your eyes perceive what they see T
 
 ## Title of the book:"_JavaScript and JQuery: Interactive Front-End Web Development_"
 
-![JS book](https://github.com/Naziha-1986/reading-notes.md/blob/main/book2.jpg)
+![JS book](https://th.bing.com/th/id/R42f2e4f0f1e55b06972738f6f2668d2d?rik=PLa8Iw1RQ1HmVw&riu=http%3a%2f%2fd20eq91zdmkqd.cloudfront.net%2fassets%2fimages%2fbook%2flarge%2f9781%2f1185%2f9781118531648.jpg&ehk=3ka6TSvbX%2frzUv9k9%2fRSNWrSgbDgIUJcQf391PEHbqw%3d&risl=&pid=ImgRaw)
 
 **This book explains how JavaScript can make websites more interactive, interesting,and user-friendly**.
 
