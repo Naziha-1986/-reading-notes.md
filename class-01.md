@@ -102,5 +102,7 @@ number or any other character). **it should be for one element only on the page*
 `Question #11` **What is the difference between Block & Inline Elements?**
 
 
+![block &inline](https://github.com/Naziha-1986/reading-notes.md/blob/main/block%201.png)
+
 Try out and download all of the code for this book online at:
 http://www.htmlandcssbook.com/code/
