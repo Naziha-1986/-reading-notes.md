@@ -256,8 +256,12 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
  3.  use a rendering engine to show the page on the screen.
  
  `Question #5` **How HTML, CSS, & JAVASCRIPT fit together?**
- `Answer` 
+ 
+ `Answer`
+ 
+ ![HTML-CSS-JS](https://github.com/Naziha-1986/reading-notes.md/blob/main/3.png)
  
  
-Try out and download all of the code for this book online at:
+Try out and download all)
+of the code for this book online at:
 http://www.htmlandcssbook.com/code/
