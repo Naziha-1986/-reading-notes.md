@@ -140,8 +140,28 @@ number or any other character). **it should be for one element only on the page*
 
 **There are some characters that are used in and reserved by HTML code:**
 
+![escape](https://github.com/Naziha-1986/reading-notes.md/blob/main/escape.jpg)
 
+`Question #15` **What are the New Html5 Layout Elements?**
 
+`Answer`
+* Headers & footers: header or footer  appears at the top or bottom of every page on the site.
+ `<header>` element used to contain the site name and the main navigation.but The `<footer>` element contains copyright information, along with links to the privacy policy 
+and terms and conditions.
+* Navigation `<nav>`: it is an element  used to contain the major navigational blocks on the site such as the primary site navigation.
+* Article `<article>`: it is like acontainer for any section of a page that could stand alone and potentially be syndicated.
+* Aside `<aside>`: 
+     * if `<aside>` element is inside an `<article>`element, it will contain information that is related to the article but not essential to its 
+overall meaning.(for example:pullquote or glossary).
+     * if `<aside>` element is outside an `<article>`element ,it will act as a container for content that is related to the entire page.
+* Sections `<section>`: it is an element that  groups related content together, and typically each section would have its own heading.     
+* Heading Groups `<hgroup>`: it is used to group together a set of one or more `<h1>` through `<h6>` elements so that they are  reated as one single heading.
+ 
+* Figures `<figure>  <figcaption>`: It can be used to contain any content that is referenced from the main flow of an article (not just images).
+* Sectioning elements `<div>`.
+* Linking Around Block-Level Elements `<a>`:This allows you to turn an entire block into a link.
+(this is not a new element in HTML5, but it was not seen as a correct usage of the <a> element in earlier versions of HTML)
+ 
 
 
 Try out and download all of the code for this book online at:
