@@ -84,7 +84,7 @@ There have also been several versions of each browser used to view web pages, ea
 
 Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using. 
 
-![doctype in HTML5](https://github.com/Naziha-1986/reading-notes.md/blob/main/OIP.jpg)
+![doctype in HTML5](https://th.bing.com/th/id/R73a8ee5b4e79c7ffd89d44e3c57fdef9?rik=D1TeZJYL0agjdA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-AthYZg1Ha8A%2fT6LFF6156LI%2fAAAAAAAAAX0%2fZhyxOP4Tgw0%2fs1600%2fHTML5-Doctype.gif&ehk=yaiO%2f%2bDOww3Wy6eyMM6wlbVA88%2fpkW2vY5TN5dAdYKc%3d&risl=&pid=ImgRaw)
 
 
 `Question #9` **How can you make a comment in HTML?**
