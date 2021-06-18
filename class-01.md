@@ -60,7 +60,7 @@ information (structure word documents). a document might start with a large head
 The HTML code (*in red*) is made up of characters that live inside angled brackets —( called: **HTML elements**).
 HTML elements are made up of  **two tags**: an opening tag (<html>) and a closing tag (</html>).these elements tell the browser something about the information that sits between its opening and closing tags.
 
-![opening & closing tags](https://github.com/Naziha-1986/reading-notes.md/blob/main/opening%20and%20closing%20tags.png)
+![opening & closing tags](https://th.bing.com/th/id/OIP.jhj4004RpsfhDHhO1TDPHwHaHa?pid=ImgDet&rs=1)
 
 
 `Question #7`**What do attributes tell us?**
