@@ -237,7 +237,7 @@ Visual hierarchy refers to the order in which your eyes perceive what they see T
  
  * CSS properties
  
- ![css properties](https://github.com/Naziha-1986/reading-notes.md/blob/main/css%20pro.gif)
+ ![css properties](https://djnmarti.com/foothill/coin65/week_02/images/anatomy_css_rule.gif)
  
 `Question #3` **What is a script and how do I create one?**
 
