@@ -67,6 +67,15 @@ made up of **two parts**: a _name_ and a _value_, separated by an equals sign.fo
 ![html attribute](https://github.com/Naziha-1986/reading-notes.md/blob/main/html-tag-attributes.png)
 
 ## The Evolution of HTML:
+Each new version was designed to be an improvement on the last (with new elements and attributes added and older code removed).
+There have also been several versions of each browser used to view web pages, each of which implements new code.
+
+![HTML versions](https://github.com/Naziha-1986/reading-notes.md/blob/main/Html%20versions.jpg)
+
+Because there have been several versions of HTML, each 
+web page should begin with a DOCTYPE declaration to tell a 
+browser which version of HTML the page is using. 
+
 
 
 Try out and download all of the code for this book online at:
