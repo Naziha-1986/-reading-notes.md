@@ -179,7 +179,7 @@ A site map will usually begin with the _homepage_.
 
 `Answer`  
 
-![wire)frame](https://github.com/Naziha-1986/reading-notes.md/blob/main/wireframe.jpg)
+![wire)frame](https://miro.medium.com/max/1800/0*FVLOt7Tx7P3zPI7T.jpg)
 
 You should not include the color scheme, font choices, backgrounds or images for the website in the wireframe. It should focus on what information needs to be on each page and create a visual hierarchy to indicate the most important parts of each page.
 
