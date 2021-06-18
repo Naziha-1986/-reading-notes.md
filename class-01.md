@@ -6,7 +6,7 @@
 
 
 
-*this book consider agreat book because it teachs you every thing about  HTML &SCC . it helps you design and build websites, moreover if you have a website,it will help yous to have more control over the appearance of your pages .*
+*This book consider agreat book because it teachs you every thing about HTML &SCC . it helps you design and build websites, moreover if you have a website,it will help yous to have more control over the appearance of your pages .*
 
 `Question #1` **why you need to understand HTML &CSS?**
 
@@ -64,6 +64,9 @@ HTML elements are made up of  **two tags**: an opening tag (<html>) and a closin
 made up of **two parts**: a _name_ and a _value_, separated by an equals sign.for example:
 
 
+![html attribute](https://github.com/Naziha-1986/reading-notes.md/blob/main/html-tag-attributes.png)
+
+## The Evolution of HTML:
 
 
 Try out and download all of the code for this book online at:
