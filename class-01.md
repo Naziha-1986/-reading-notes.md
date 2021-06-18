@@ -66,6 +66,8 @@ made up of **two parts**: a _name_ and a _value_, separated by an equals sign.fo
 
 ![html attribute](https://github.com/Naziha-1986/reading-notes.md/blob/main/html-tag-attributes.png)
 
+![HTML syntax](https://github.com/Naziha-1986/reading-notes.md/blob/main/html-syntax.png)
+
 `Question #8`What is  The Evolution of HTML:
 
 `Answer` Each new version was designed to be an improvement on the last (with new elements and attributes added and older code removed).
