@@ -46,7 +46,7 @@ information (structure word documents). a document might start with a large head
 
 ![headings and subheadings](https://github.com/Naziha-1986/reading-notes.md/blob/main/haedings.jpg)
 
-`Question #6` **Whatv is HTML code?**
+`Question #6` **What is HTML code?**
 
 `Answer`
 
@@ -56,6 +56,12 @@ information (structure word documents). a document might start with a large head
 The HTML code (*in red*) is made up of characters that live inside angled brackets —( called: **HTML elements**).
 HTML elements are made up of  **two tags**: an opening tag (<html>) and a closing tag (</html>).these elements tell the browser something about the information that sits between its opening and closing tags.
 
+![opening & closing tags](https://github.com/Naziha-1986/reading-notes.md/blob/main/opening%20and%20closing%20tags.png)
+
+`Question #7`**What do attributes tell us?**
+
+`Answer`Attributes give us additional information about the contents of an element. They appear on the opening tag of the element and are 
+made up of **two parts**: a _name_ and a _value_, separated by an equals sign.for example:
 
 
 
