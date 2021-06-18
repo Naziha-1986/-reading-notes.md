@@ -115,7 +115,7 @@ number or any other character). **it should be for one element only on the page*
 
 ![block &inline](https://th.bing.com/th/id/Rc68de59a13d35c64092aac603b180154?rik=iuxZVJuyBRzwmw&riu=http%3a%2f%2fnetdna.webdesignerdepot.com%2fuploads%2f2012%2f08%2fboxmodel-block-vs-inline.png&ehk=4BnDF03Yixf8L34iMIX9UIgzcEn6xW0NLM4rvNwmww8%3d&risl=&pid=ImgRaw)
 
-![block & inline elements](https://github.com/Naziha-1986/reading-notes.md/blob/main/block2.jpg)
+![block & inline elements](https://th.bing.com/th/id/Rc0b670130da1189cb5e254b201190241?rik=S3Qps8kFhG9lKA&riu=http%3a%2f%2fictacademy.com.ng%2fwp-content%2fuploads%2f2017%2f10%2finline-block-and-positioning-in-css-4-638.jpg&ehk=QvGYsOh8qVHdE8E%2fMmK2Lb80cZINFZXLI67BA6ki0tA%3d&risl=&pid=ImgRaw)
 
 
 `Question #12` **What is the difference between `<div>` & `<span>` elements?**
