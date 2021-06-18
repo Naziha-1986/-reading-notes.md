@@ -204,7 +204,7 @@ Visual hierarchy refers to the order in which your eyes perceive what they see T
  
  `Answer`Good navigation helps users understand what your site is about and how it is organized.
  
- ![navigation bar](https://github.com/Naziha-1986/reading-notes.md/blob/main/nav1.jpg)
+ ![navigation bar](https://th.bing.com/th/id/Re5155beb58fd30bfa65d3c0d6787d288?rik=azEXWmh8VQ1ehQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f-wn1J9fJoT3k%2fU_9lwT8L8VI%2fAAAAAAAAAqs%2fi-_R3H1LLrY%2fs1600%2fSimple-DropDown-Navigation-Bar.png&ehk=SSKoGQ69qpxq0tKhLWyRCTckt9gAuCVzjyiNJFlMabA%3d&risl=&pid=ImgRaw)
  
  
  >you can download all of the code for this book online at this [link](http://www.htmlandcssbook.com/code/)
