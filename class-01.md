@@ -141,7 +141,7 @@ number or any other character). **it should be for one element only on the page*
 
 **There are some characters that are used in and reserved by HTML code:**
 
-![escape](https://github.com/Naziha-1986/reading-notes.md/blob/main/escape.jpghttps://newsandstory.com/stories/0307353038201865756/0307353038201865756.jpg)
+![escape]https://newsandstory.com/stories/0307353038201865756/0307353038201865756.jpg)
 
 `Question #15` **What are the New Html5 Layout Elements?**
 
