@@ -19,6 +19,7 @@
 `Question #2` **How website is created?**
 
 `Answer`there are 2 types of websites:
+
 1. **Small websites**: are often written 
 just using HTML and CSS.
 
@@ -29,7 +30,9 @@ just using HTML and CSS.
 `Answer` When web was first created ,we used several versions of HTML and CSS. each intended to be an improvement on the previous version. for example: _HTML5 & CSS3_(Of course you should understand the earlier versions of them).
 
 `Question #4`**How the Web Works?**
+
 `Answer`
+
 
 ![web](https://github.com/Naziha-1986/reading-notes.md/blob/main/server.jpg)
 
@@ -82,16 +85,21 @@ Because there have been several versions of HTML, each web page should begin wit
 
 ![doctype in HTML5](https://github.com/Naziha-1986/reading-notes.md/blob/main/OIP.jpg)
 
+
 `Question #9` **How can you make a comment in HTML?**
 
 `Answer` You can add a comment to your code that will not be visible in the user's browser and add the text between these characters by using this:
+
 `<!-- comment goes here -->`
 
 
 `Question #10` **What is the difference between ID & Class attribute?**
+
 `Answer`
+
 * **ID Attribute**is used to  _uniquely identify_ that element from other elements on the page. Its value should start with a letter or an underscore (not a 
 number or any other character). **it should be for one element only on the page**.
+
 * **Class Attribute** is used when there is _rather than uniquely identifying one element_ withina document (identify several elements to make them different from the other elements on the page).
 **the elements that have the same class attribute share the same value.**
 
@@ -101,8 +109,40 @@ number or any other character). **it should be for one element only on the page*
 
 `Question #11` **What is the difference between Block & Inline Elements?**
 
+`Answer`
+*block elements* start on a new line in the browser window.but *inline elements* appear to continue on the same line as their neighbouring elements.
 
 ![block &inline](https://github.com/Naziha-1986/reading-notes.md/blob/main/block%201.png)
+
+![block & inline elements](https://github.com/Naziha-1986/reading-notes.md/blob/main/block2.jpg)
+
+
+`Question #12` **What is the difference between `<div>` & `<span>` elements?**
+
+`Answer`
+
+* `<div>` used *to group a set of elements together in one block-level box*(Grouping Text & Elements In a Block). on the other hand `<span>` used either *to Contain a section of text* where there is no other suitable element to differentiate it from its surrounding text or *Contain a number of inline elements*m so you can control the appearance of the content of these elements using CSS.(Grouping Text & Elements inline).
+* Both of them  contain an opining tag & closing tag.
+
+`Question #13`** What is `<iframe>`?
+
+`Answer` it's a little window that has been cut into your page — and in that window you can see another page. the common use of iframes is to embed a Google Map into a page. 
+
+**`<iframe>` attributes**:
+
+1. scr: specifies the URL of the page.
+2. height: specifies the height of the iframe in pixels.
+3. width:  specifies the width of the iframe in pixels.
+
+`Question #14`** What is `<meta.` element?**
+ 
+ `Answer` it lives inside the `<head>` element & contains information about the web page. 
+
+**There are some characters that are used in and reserved by HTML code:**
+
+
+
+
 
 Try out and download all of the code for this book online at:
 http://www.htmlandcssbook.com/code/
