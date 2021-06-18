@@ -176,8 +176,35 @@ A site map will usually begin with the _homepage_.
 
 `Question #17` ** What is WireFrame?**
 
+`Answer`  
+
+![wire)frame](https://github.com/Naziha-1986/reading-notes.md/blob/main/wireframe.jpg)
+
+You should not include the color scheme, font choices, backgrounds or images for the website in the wireframe. It should focus on what information needs to be on each page and create a visual hierarchy to indicate the most important parts of each page.
+
+Visual hierarchy refers to the order in which your eyes perceive what they seeThe wireframes make design easy to understand  because you know what kind of information you want to appear on your web page.
 
 
-
+ `Question #18 `**How design can be used to effectively communicate the services of a company?**
+ 
+ `Answer`  Most of users skim across entire web pages,they don't read each single word so you can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for.
+ 
+ * size: you should use large elements to attract users.so it will be good idea if you use headings in ypur web page.
+ * color: when you add color , background and brighter section, you will draw attention to your key messages.
+ * Style: you can differentiate similar elements by adding style to one of them.
+  
+  
+ `Question #19` **Why we use Grouping?**
+ 
+ `Answer` Grouping  makes pieces of information related together,so it can make a design easier to comprehend. You can use grouping and similarity to help simplify the information you present.
+ 
+ 
+ `Question #20` **what is the importance of Good navigation?**
+ 
+ `Answer`Good navigation helps users understand what your site is about and how it is organized.
+ 
+ 
+ 
+ 
 Try out and download all of the code for this book online at:
 http://www.htmlandcssbook.com/code/
