@@ -211,8 +211,22 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
 
 ## Title of the book:"_JavaScript and JQuery: Interactive Front-End Web Development_"
 
+![JS book](https://github.com/Naziha-1986/reading-notes.md/blob/main/book2.jpg)
+
+**This book explains how JavaScriptcan can make websites more interactive, interesting,and user-friendly**.
+
+ `Question #1` **How Javascript makes web pages more interactive?**
  
+ `Answer` 
+ 1. you can use it to choose any element, text or even any attribute from HTML page.
+ 2. you can access and modify the content in aweb page while it is being viewed in the browser.
+ 3. you can set a specific steps for the browser to follow.
+ 4. when a specific event occurred, you can specify a script to run.
  
+  `Question #2` **what are HTML attributes and CSS properties?**
+  
+  `Answer`
+  
  
  
 Try out and download all of the code for this book online at:
