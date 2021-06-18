@@ -44,7 +44,7 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
 |  content       | link |
 | ----------    | ----------- |
-|class-01 |[link]()    |
+|class-01 |[link](https://naziha-1986.github.io/reading-notes.md/class-01)    |
 |Read:02|[link]()     |
 |Read:03| [link]()    |
 |Read:04| [link]()    |
