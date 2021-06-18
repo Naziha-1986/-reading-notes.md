@@ -1,5 +1,5 @@
 
-+# Jon Ducket book Summriaztion:
+# Jon Ducket book Summriaztion:
 
 ## Title of the book:"_HTML & CSS :Design and Build Websites_"
 ![img](https://github.com/Naziha-1986/reading-notes.md/blob/main/book.jpg)
