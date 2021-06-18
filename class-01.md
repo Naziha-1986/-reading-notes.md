@@ -233,7 +233,7 @@ Visual hierarchy refers to the order in which your eyes perceive what they see T
   `Answer`
   * HTML attributes
  
- ![html attributes](https://github.com/Naziha-1986/reading-notes.md/blob/main/html%20at.png)
+ ![html attributes](https://th.bing.com/th/id/R10a458aac074fb70eaf3c2d7345bf12d?rik=P44iIaZiYFoeVg&riu=http%3a%2f%2fcis.msjc.edu%2fcourses%2fimages%2fHTMLelement.png&ehk=B8KpJcL63CIm85OWFjWgbH2EuWljepeXYdINrmH0wIE%3d&risl=&pid=ImgRaw)
  
  * CSS properties
  
