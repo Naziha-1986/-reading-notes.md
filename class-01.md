@@ -1,12 +1,12 @@
 
-# 1. Jon Ducket book Summriaztion:
+# 1. Jon Duckett book Summarization:
 
-## Title of the book:"_HTML & CSS :Design and Build Websites_"
+## Title of the book: "_HTML & CSS :Design and Build Websites_"
 ![img](https://github.com/Naziha-1986/reading-notes.md/blob/main/book.jpg)
 
 
 
-*This book consider agreat book because it teachs you every thing about HTML &SCC . it helps you design and build websites, moreover if you have a website,it will help yous to have more control over the appearance of your pages .*
+*This book consider agreat book because it teaches you every thing about HTML &SCC . it helps you design and build websites, moreover if you have a website,it will help you to have more control over the appearance of your pages .*
 
 `Question #1` **why you need to understand HTML &CSS?**
 
@@ -122,7 +122,7 @@ number or any other character). **it should be for one element only on the page*
 
 `Answer`
 
-* `<div>` used *to group a set of elements together in one block-level box*(Grouping Text & Elements In a Block). on the other hand `<span>` used either *to Contain a section of text* where there is no other suitable element to differentiate it from its surrounding text or *Contain a number of inline elements*m so you can control the appearance of the content of these elements using CSS.(Grouping Text & Elements inline).
+* `<div>` used *to group a set of elements together in one block-level box*(Grouping Text & Elements In a Block). on the other hand `<span>` used either *to Contain a section of text* where there is no other suitable element to differentiate it from its surrounding text or *Contain a number of inline elements*, so you can control the appearance of the content of these elements using CSS.(Grouping Text & Elements inline).
 * Both of them  contain an opining tag & closing tag.
 
 `Question #13`** What is `<iframe>`?
@@ -183,7 +183,7 @@ A site map will usually begin with the _homepage_.
 
 You should not include the color scheme, font choices, backgrounds or images for the website in the wireframe. It should focus on what information needs to be on each page and create a visual hierarchy to indicate the most important parts of each page.
 
-Visual hierarchy refers to the order in which your eyes perceive what they seeThe wireframes make design easy to understand  because you know what kind of information you want to appear on your web page.
+Visual hierarchy refers to the order in which your eyes perceive what they see The wireframes make design easy to understand  because you know what kind of information you want to appear on your web page.
 
 
  `Question #19 `**How design can be used to effectively communicate the services of a company?**
@@ -212,19 +212,19 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
 
  
  
- # 2. Jon Ducket book Summriaztion:
+ # 2. Jon Duckett book Summarization:
 
 ## Title of the book:"_JavaScript and JQuery: Interactive Front-End Web Development_"
 
 ![JS book](https://github.com/Naziha-1986/reading-notes.md/blob/main/book2.jpg)
 
-**This book explains how JavaScriptcan can make websites more interactive, interesting,and user-friendly**.
+**This book explains how JavaScript can make websites more interactive, interesting,and user-friendly**.
 
  `Question #1` **How Javascript makes web pages more interactive?**
  
  `Answer` 
  1. you can use it to choose any element, text or even any attribute from HTML page.
- 2. you can access and modify the content in aweb page while it is being viewed in the browser.
+ 2. you can access and modify the content in a web page while it is being viewed in the browser.
  3. you can set a specific steps for the browser to follow.
  4. when a specific event occurred, you can specify a script to run.
  
@@ -244,7 +244,7 @@ Visual hierarchy refers to the order in which your eyes perceive what they seeTh
   `Answer`
   **A script**: is a series of instructions are followed by computer one-by-one in the order set out to achieve a specific goal.Some scripts are simple deal with one scenario and Other scripts can perform many tasks.
   
-  **to creat a script** you need to:
+  **to create a script** you need to:
   
   1. _determine what is your goal_ and then list the tasks that you need in order to achieve it.
   2.  _design the script_: you should split your goal into tasks that will help you to achieve your goal (flow chart).
