@@ -225,6 +225,9 @@ example of `<q>` tag:
 
 * before you use variable, you should announce it by giving it a name *(Variable Declaration)*
 * then you should tell variables what type of information you would like to store in it.*(Assign Value)*
+* 
+![var](https://th.bing.com/th/id/R1677f5a9324e113951ce542e6aebaf10?rik=uMj8daeHXvPXVg&riu=http%3a%2f%2fwww.atnyla.com%2flibrary%2fimages-tutorials%2fint-data-type-in-java-3a.PNG&ehk=ibqmYoc6JT10fT3h1D9OSZXL3wlcMljQ0oNB5kXLUR4%3d&risl=&pid=ImgRaw)
+
 
 ![var2](https://2.bp.blogspot.com/-4XOpVvuPw6s/WTphgylIGAI/AAAAAAAAPXA/K_82H2ho16EeeG6ExT22ynt9PawBTSwwQCLcB/s1600/TypeScript%2BVariable%2BDeclarations.jpg)
 
