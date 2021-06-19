@@ -134,5 +134,10 @@ example of `<q>` tag:
    
    ![s](https://www.w3docs.com/uploads/media/book_gallery/0001/04/594c4ea9a08173a06b7ae3e1acfc361bd42d6120.png)
    
-8. 
+## What is CSS:
+
+![css](https://image.slidesharecdn.com/introductiontohtmlcss-part2-120711042239-phpapp02/95/introduction-to-css-2-728.jpg?cb=1341981277)
+
+CSS makes web pages more attractive.
+to understand how CSS works you should imagine that there is an invisible box around every HTML element.
 
