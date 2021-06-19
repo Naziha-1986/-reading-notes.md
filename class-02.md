@@ -214,7 +214,7 @@ example of `<q>` tag:
 
 ![JS book](https://th.bing.com/th/id/R42f2e4f0f1e55b06972738f6f2668d2d?rik=PLa8Iw1RQ1HmVw&riu=http%3a%2f%2fd20eq91zdmkqd.cloudfront.net%2fassets%2fimages%2fbook%2flarge%2f9781%2f1185%2f9781118531648.jpg&ehk=3ka6TSvbX%2frzUv9k9%2fRSNWrSgbDgIUJcQf391PEHbqw%3d&risl=&pid=ImgRaw)
 
-`Question` ?**WHAT IS A VARIABLE?**
+`Question` ?**What is a Variable?**
 
 `Answer` VARIABLE : is a name of storage location of information that needs to do its job. data stored in a variable can change (or vary) each time a script runs.
 
@@ -233,23 +233,31 @@ example of `<q>` tag:
 ![var2](https://2.bp.blogspot.com/-4XOpVvuPw6s/WTphgylIGAI/AAAAAAAAPXA/K_82H2ho16EeeG6ExT22ynt9PawBTSwwQCLcB/s1600/TypeScript%2BVariable%2BDeclarations.jpg)
 
 
-`Question` **What are DATA TYPES in JavaScript?**
+`Question` **What are Data Types in JavaScript?**
 
 ![data types](https://i0.wp.com/simplesnippets.tech/wp-content/uploads/2018/10/variables-and-datatypes-in-JavaScript-featured-image.jpg?fit=750%2C350&ssl=1)
 ![data types2](https://th.bing.com/th/id/R0984766380d851285c7402bff167a50e?rik=g4eNGl3079IqJQ&riu=http%3a%2f%2fweb.archive.org%2fweb%2f20150608041638im_%2fhttp%3a%2f%2fwww.javascriptstyle.com%2fwp-content%2fuploads%2f2013%2f07%2fVariables-in-JavaScript-1024x819.jpg&ehk=p6XpPYZj5Zmy%2fi9StQlLmlqo%2fV0fX7qUhGZ7lMQbWkI%3d&risl=&pid=ImgRaw)
 
-## SHORTHAND FOR CREATING VARIABLES:
+## Shorthand for creating variables:
 -There are three variations of how to declare variables and assign them values:
  1. Declare Variables  and assign values  in the same statement.
  2. declare more than one variable on the same line, then values assign  value  to each one.
  3. Two variables are declared and assigned values on the same line. 
  
- ## CHANGING THE VALUE OF A VARIABLE:
+ ## Changing the value of a variable:
  
 **when the variable has been created, you do not need to use the var keyword to assign it a new value. You can use the variable name, the equals sign and the new value for 
 that attribute.**
 
-## RULES FOR NAMING VARIABLES:
+## Rules for naming variables:
 
 ![name rules](https://i.ytimg.com/vi/YTL6exhIGs8/maxresdefault.jpg)
+
+## Arrays:
+- It is special type of object /variablem it can it store a list of values.
+- when you create the array, you do not need to specify how many values it will hold. 
+- 
+![array](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-arrays/array+indices.svg)
+
+## Values in Arrays:
 
