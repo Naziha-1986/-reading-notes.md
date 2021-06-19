@@ -17,6 +17,8 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
 
 # 1. Code 102 Reading Notes:
+![assignment](https://th.bing.com/th/id/OIP.j4UDbgb9mnwLnBHdKcTdggAAAA?pid=ImgDet&rs=1)
+
 
 *This is a table contains all of `Code 102 Assignments`:* 
 
@@ -35,18 +37,26 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
              
              
+             
 # 2. Code 201 Reading Notes:
+
 
 **_Hi everyone_**
 
-*This is a table contains all of `Code 201 Assignments`:* 
+My name is **Naziha Qawasmeh**.I'm from Joradn. i have a passion for learning everything new . I joined to your team to expand my knowledge and skills in programming and coding.
 
+Nice to meet you all.
+
+![assignment](https://th.bing.com/th/id/R7905091e3c712e083a770198902b8908?rik=hX7aRj3hSb7J3Q&pid=ImgRaw)
+
+*This is a table contains all of `Code 201 Assignments`:* 
+ coding & learning 
 
 ## Table of contents:
 
 |  content       | link |
 | ----------    | ----------- |
-|class-01 |[link](https://naziha-1986.github.io/reading-notes.md/class-01)    |
+| Read:01|[class-01](https://naziha-1986.github.io/reading-notes.md/class-01)    |
 |Read:02|[link]()     |
 |Read:03| [link]()    |
 |Read:04| [link]()    |
