@@ -57,7 +57,7 @@ Nice to meet you all.
 |  content       | link |
 | ----------    | ----------- |
 | Read:01|[class-01](https://naziha-1986.github.io/reading-notes.md/class-01)    |
-|Read:02|[link]()     |
+|Read:02|[class-02](https://naziha-1986.github.io/reading-notes.md/class-02)     |
 |Read:03| [link]()    |
 |Read:04| [link]()    |
 |Read:05| [link]()    |
