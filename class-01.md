@@ -268,7 +268,7 @@ Visual hierarchy refers to the order in which your eyes perceive what they see T
  
 
  
- ![HTML-CSS-JS](https://github.com/Naziha-1986/reading-notes.md/blob/main/3-1N.jpg)
+ ![HTML-CSS-JS](https://th.bing.com/th/id/R2a649337815e93f61fe6a040c3e1ba7d?rik=XZLdsyyB5IQd1Q&pid=ImgRaw)
  
  `Question #6` **How do i write a script for a web page?**
  
