@@ -206,9 +206,22 @@ example of `<q>` tag:
 ![css versions](https://th.bing.com/th/id/OIP.-WqDBPQuuaw2nhvaWc60-wAAAA?w=261&h=132&c=7&o=5&pid=1.7)
 
 
+
+
 # 2. Jon Duckett book Summarization:
 
 ## Title of the book:"_JavaScript and JQuery: Interactive Front-End Web Development_"
 
 ![JS book](https://th.bing.com/th/id/R42f2e4f0f1e55b06972738f6f2668d2d?rik=PLa8Iw1RQ1HmVw&riu=http%3a%2f%2fd20eq91zdmkqd.cloudfront.net%2fassets%2fimages%2fbook%2flarge%2f9781%2f1185%2f9781118531648.jpg&ehk=3ka6TSvbX%2frzUv9k9%2fRSNWrSgbDgIUJcQf391PEHbqw%3d&risl=&pid=ImgRaw)
 
+`Question` ?**WHAT IS A VARIABLE?**
+
+`Answer` VARIABLE : is a name of storage location of information that needs to do its job. data stored in a variable can change (or vary) each time a script runs.
+
+![var](https://1.bp.blogspot.com/-8UmWFTngfwY/XkVRuoPFfkI/AAAAAAAACmI/93j-FMkA9EYyoRIT1qlJ2sMUbobnWT1UgCLcBGAsYHQ/s1600/javascript_var.png)
+
+
+`Question` ?**WHAT IS A VARIABLE Declaration?**
+* before you use variable, you should announce it by giving it a name (Variable Declaration)
+
+![var2](https://2.bp.blogspot.com/-4XOpVvuPw6s/WTphgylIGAI/AAAAAAAAPXA/K_82H2ho16EeeG6ExT22ynt9PawBTSwwQCLcB/s1600/TypeScript%2BVariable%2BDeclarations.jpg)
