@@ -179,10 +179,22 @@ example of `<q>` tag:
  
  ### How Css Rules Cascade:
  
- 1. Last rule: if you have identical selectors, the more specific rule will take precedence over anthor. 
- 2. Specificity:  the more specific rule will take precedence over more general ones.
- 3. important: to indicate that it should be considered more important than other rules, you can add `!` important after any property value.
-     
+ 1. *Last rule*: if you have identical selectors, the more specific rule will take precedence over anthor. 
+ 2. *Specificity*:  the more specific rule will take precedence over more general ones.
+ 
+![](https://th.bing.com/th/id/R7848c180e5d0875a29e07758b5696cec?rik=3YE3wv8frsuqtQ&pid=ImgRaw)
+
+ 3. *important*: to indicate that it should be considered more important than other rules, you can add `!` important after any property value.
+    
+ ### CSS inheritance:
+ 
+ * a property should inherit its value from its parent element.
+ 
+  ![iher](https://i.ytimg.com/vi/aOScN7hzzBQ/maxresdefault.jpg)
    
+   ![parent](https://image.slidesharecdn.com/inheritance2-090726204631-phpapp02-091105065742-phpapp02/95/css-inheritance-9-728.jpg?cb=1257404280)
    
+ ### CSS Versions:  
+   
+![css versions](https://th.bing.com/th/id/OIP.-WqDBPQuuaw2nhvaWc60-wAAAA?w=261&h=132&c=7&o=5&pid=1.7)
 
