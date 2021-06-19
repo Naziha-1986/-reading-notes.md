@@ -192,9 +192,23 @@ example of `<q>` tag:
  
   ![iher](https://i.ytimg.com/vi/aOScN7hzzBQ/maxresdefault.jpg)
    
-   ![parent](https://image.slidesharecdn.com/inheritance2-090726204631-phpapp02-091105065742-phpapp02/95/css-inheritance-9-728.jpg?cb=1257404280)
+ 
+![parent](https://image.slidesharecdn.com/inheritance2-090726204631-phpapp02-091105065742-phpapp02/95/css-inheritance-9-728.jpg?cb=1257404280)
+
+### Why do we use External Style Sheets?
+-there are  advantages to placing your CSS rules in a separate style sheet:
+  * All of your web pages can share the same style sheet by using the `<link>`element.so there is no need to repeat same code in every page.
+  * By using CSS stylesheet, the rest of the site will be loaded faster.
+  * to make any changes on site appearence you only need to edit the one CSS file and all of your pages will be updated.
    
  ### CSS Versions:  
    
 ![css versions](https://th.bing.com/th/id/OIP.-WqDBPQuuaw2nhvaWc60-wAAAA?w=261&h=132&c=7&o=5&pid=1.7)
+
+
+# 2. Jon Duckett book Summarization:
+
+## Title of the book:"_JavaScript and JQuery: Interactive Front-End Web Development_"
+
+![JS book](https://th.bing.com/th/id/R42f2e4f0f1e55b06972738f6f2668d2d?rik=PLa8Iw1RQ1HmVw&riu=http%3a%2f%2fd20eq91zdmkqd.cloudfront.net%2fassets%2fimages%2fbook%2flarge%2f9781%2f1185%2f9781118531648.jpg&ehk=3ka6TSvbX%2frzUv9k9%2fRSNWrSgbDgIUJcQf391PEHbqw%3d&risl=&pid=ImgRaw)
 
