@@ -1,16 +1,16 @@
 # Introdution: 
 
- _**Hi every one **_  :clap:
+ _**Hi every one **_  
 
 My name is **Naziha Qawasmeh** from Joradn. Iam 34 years old.I graduated from Yarmouk Universiy. 
 
-By the way, Iam an *Accountant*  :woman_office_worker: .I obtained Master degree in Accounting Major in 2020.
+By the way, Iam an *Accountant* .I obtained Master degree in Accounting Major in 2020.
 
 I joined to your team to become a web developer and to have the ability to design web pages that will help me in my work- when i get one- and improve accounting field in general.
 
 _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
-### *nice to meet you all & Thank you for visiting my site *. :wink:   
+### *nice to meet you all & Thank you for visiting my site *. 
 
 
 
@@ -37,7 +37,7 @@ _**Iam so exciting for this journey, i feel it will be fun and great one.**_
 
 **_Hi everyone_**
 
-*This is a table contains all of `Code 201 Assignments`:* :+1:
+*This is a table contains all of `Code 201 Assignments`:* 
 
 
 ## Table of contents:
