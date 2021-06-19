@@ -236,4 +236,5 @@ example of `<q>` tag:
 `Question` **What are DATA TYPES in JavaScript?**
 
 ![data types](https://i0.wp.com/simplesnippets.tech/wp-content/uploads/2018/10/variables-and-datatypes-in-JavaScript-featured-image.jpg?fit=750%2C350&ssl=1)
+![data types2](https://th.bing.com/th/id/R0984766380d851285c7402bff167a50e?rik=g4eNGl3079IqJQ&riu=http%3a%2f%2fweb.archive.org%2fweb%2f20150608041638im_%2fhttp%3a%2f%2fwww.javascriptstyle.com%2fwp-content%2fuploads%2f2013%2f07%2fVariables-in-JavaScript-1024x819.jpg&ehk=p6XpPYZj5Zmy%2fi9StQlLmlqo%2fV0fX7qUhGZ7lMQbWkI%3d&risl=&pid=ImgRaw)
 
