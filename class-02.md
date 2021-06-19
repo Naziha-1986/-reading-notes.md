@@ -259,5 +259,10 @@ that attribute.**
 - 
 ![array](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-arrays/array+indices.svg)
 
-## Values in Arrays:
+## Arithmetic Operators:
+![arithmetic](https://th.bing.com/th/id/R3a5c9dd36d901fab6511515e58157266?rik=ErQliReoXzTczA&pid=ImgRaw)
+
+
+
+
 
