@@ -88,7 +88,7 @@ closing angled bracket it should  be a space and a forward slash character.
 `Question #10`:**What are Semantic Markup elements?**
 
 `Answer`
-* **Strong `<strong>` & Emphasis `<em>`**:
+1. * **Strong `<strong>` & Emphasis `<em>`**:
  we use `<strong>`to indicates that the content has strong importance( the text is displayed as **bold**by the browser). but we use `<em>` to emphasize certain words rather than the rest of the text (the text is displayed as _italic_).
 
 ![strong](https://delante.co/wp-content/uploads/2020/08/strong-tag-1024x181.png)
@@ -97,7 +97,7 @@ closing angled bracket it should  be a space and a forward slash character.
 
 ![](https://th.bing.com/th/id/R3b12ee6a7568e74a3e6d323eb6162de6?rik=8NRVMZUnvP4QEQ&pid=ImgRaw)
 
-* **Quotations `<blockquote>` & `<q>`**:
+2. * **Quotations `<blockquote>` & `<q>`**:
 `<blockquote>`: we use this element to for **longer quotes** that take up an entire paragraph. on the other hand, we use `<q>` for **shorter quotes** that sit within a paragraph.
  
 ![blockquote](https://static.javatpoint.com/htmlpages/images/html-blockquote-tag2.png)
@@ -105,4 +105,34 @@ closing angled bracket it should  be a space and a forward slash character.
 example of `<q>` tag:
 
 ![q](https://i1.wp.com/www.tutorialbrain.com/wp-content/uploads/2019/05/HTML-q-tag.png?fit=656%2C52&ssl=1)
+
+3. * **Abbreviations `<abbr>` / Acronyms `<acronym>`**
+
+![Abbreviations](https://th.bing.com/th/id/Rac8525e247569b327213adec6e86243b?rik=UifKISMeuTUwpA&riu=http%3a%2f%2fgrok.lsu.edu%2fimage%2f24319.gif&ehk=YkKfyzpX%2bHKW2sTSV2b05a5pBQcf2xazgTEC8xcumRM%3d&risl=&pid=ImgRaw)
+
+
+*The Acronyms `<acronym>` tag was used in HTML4 to definean  Acronym*
+
+4. * **Citations `<cite>` & Definitions `<dfn>`**:
+
+  * we use `<cite>` tag when we want to reference a piece of work, such as a book.so the `<cite>` will tell us  where the citation is from.
+  * we use `<dfn>` tag when we want to explain a new terms.
+  
+![def](https://image.slidesharecdn.com/htmlphrasetags-120103221813-phpapp01/95/html-phrase-tags-6-728.jpg?cb=1325629234)
+
+5. * **Author Details `<address>`**:
+  * it tells contact details for the author of the page.
+  ![address](https://www.wikitechy.com/step-by-step-html-tutorials/img/html-images/code-explanation-address-tag-in-html.png)
+  
+  
+6. * **Changes to Content `<ins>`& `<del>`& `<s>`:**
+   * we use `<ins>` tag to show the content that has been **inserted** into a document.
+   * we use `<del>` tag to show the text that has been **deleted** from it.
+   * we use `<s>` tag to show that something  is no longer accurate or relevant but it shoudn't be deleted.
+   
+   ![content](https://media.geeksforgeeks.org/wp-content/uploads/ins1.png)
+   
+   ![s](https://www.w3docs.com/uploads/media/book_gallery/0001/04/594c4ea9a08173a06b7ae3e1acfc361bd42d6120.png)
+   
+8. 
 
