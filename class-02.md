@@ -228,3 +228,8 @@ example of `<q>` tag:
 
 ![var2](https://2.bp.blogspot.com/-4XOpVvuPw6s/WTphgylIGAI/AAAAAAAAPXA/K_82H2ho16EeeG6ExT22ynt9PawBTSwwQCLcB/s1600/TypeScript%2BVariable%2BDeclarations.jpg)
 
+
+`Question` **What are DATA TYPES in JavaScript?**
+
+![data types](https://i0.wp.com/simplesnippets.tech/wp-content/uploads/2018/10/variables-and-datatypes-in-JavaScript-featured-image.jpg?fit=750%2C350&ssl=1)
+
