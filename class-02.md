@@ -222,6 +222,9 @@ example of `<q>` tag:
 
 
 `Question` ?**WHAT IS A VARIABLE Declaration?**
-* before you use variable, you should announce it by giving it a name (Variable Declaration)
+
+* before you use variable, you should announce it by giving it a name *(Variable Declaration)*
+* then you should tell variables what type of information you would like to store in it.*(Assign Value)*
 
 ![var2](https://2.bp.blogspot.com/-4XOpVvuPw6s/WTphgylIGAI/AAAAAAAAPXA/K_82H2ho16EeeG6ExT22ynt9PawBTSwwQCLcB/s1600/TypeScript%2BVariable%2BDeclarations.jpg)
+
