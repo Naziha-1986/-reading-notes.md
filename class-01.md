@@ -274,7 +274,7 @@ Visual hierarchy refers to the order in which your eyes perceive what they see T
  
  * It is best to keep JavaScript code in its own JavaScript file (.js extension).
  * The HTML `<script> `element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). 
- * When the browser comes across a <script> element, it stops to load the script and then checks to see if it needs to do anything. 
+ * When the browser comes across a `<script>` element, it stops to load the script and then checks to see if it needs to do anything. 
  
  
   
