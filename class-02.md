@@ -138,6 +138,51 @@ example of `<q>` tag:
 
 ![css](https://image.slidesharecdn.com/introductiontohtmlcss-part2-120711042239-phpapp02/95/introduction-to-css-2-728.jpg?cb=1341981277)
 
-CSS makes web pages more attractive.
-to understand how CSS works you should imagine that there is an invisible box around every HTML element.
+* CSS makes web pages more attractive.
+* to understand how CSS works you should imagine that there is an invisible box around every HTML element.
+* you can control the way that each individual box by creating rules>
+* CSS works by associating rules with HTML elements.
+
+### A CSS rule contains *two parts*:
+
+    1. a selector: which element the rule applies to.
+    2. a declaration: how the elements referred to in the selector should be styled.
+    
+   ![CSS rule](https://th.bing.com/th/id/Rc728c3e37a1da82b00611b04bfec4a1c?rik=TiLZexmADewhhQ&riu=http%3a%2f%2ffrontend.turing.io%2fassets%2fimages%2fcss-rule.png&ehk=BRpWKNpvSABYrmvNON9lXEixUusSDfBXUsP3dUXq5Zg%3d&risl=&pid=ImgRaw)
+   
+   #### CSS declarations made up of two parts:  
+   
+     1. a property: it indicates what aspects of the element you want to change.
+     2. a value :it indicates what settings you want to use for the chosen properties.
+     
+ ![css declaration](https://th.bing.com/th/id/Ree4cac2ce08bd8b1a5800f8aed2b1823?rik=dQGrp2pUtg1MBQ&riu=http%3a%2f%2fcscie12.dce.harvard.edu%2flecture_notes%2f2014%2f20140224%2fimages%2fcss_property_value.png&ehk=A6iaLrMIzc9O1d8SFE5eVrozlIpg2IO9UMYdtrgGmME%3d&risl=&pid=ImgRaw)
+ 
+ 
+ ### External & Internal CSS:
+ 
+ a. External CSS`<link>` include:
+ 
+    * href (the path to the CSS file)
+    * type (the type of document being linked to)
+    * rel (s the relationship between the HTML page and the file it is linked to)
+ 
+ ![css](https://th.bing.com/th/id/R1cfc7c32233e05bdf12bca9ba66b9b50?rik=XXtJzIxnM57oUQ&riu=http%3a%2f%2ffitbloggin.com%2fwp-content%2fuploads%2f2014%2f06%2fFitbloggin-HTML-and-CSS-for-the-Non-Technical-Blogger-9.jpg&ehk=oefvxml0JBsHIZLzliOwGwzQ6ed2lAbevoGtwGwqg6g%3d&risl=&pid=ImgRaw)
+ 
+ b. Internal CSS `<style>`: you put CSS rules within an HTML page by placing them inside a `<style>` element.
+ 
+ ![internal CSS](https://th.bing.com/th/id/Rec5850033013124817713c0f514a9bb4?rik=noCWafiXBRB7Ig&pid=ImgRaw)
+ 
+ ### CSS Selectors:
+ **CSS selector allow you to target rules to specific elements in an HTML document**
+ 
+ ![css selectors](https://qph.fs.quoracdn.net/main-qimg-5021f37bec5845b1a1d21346c256d073)
+ 
+ ### How Css Rules Cascade:
+ 
+ 1. Last rule: if you have identical selectors, the more specific rule will take precedence over anthor. 
+ 2. Specificity:  the more specific rule will take precedence over more general ones.
+ 3. important: to indicate that it should be considered more important than other rules, you can add `!` important after any property value.
+     
+   
+   
 
