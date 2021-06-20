@@ -37,7 +37,9 @@ The border separates the edge of one box from another.we can use border-width pr
 *  thin
 * medium
 * thick
+
  **_we can't use percentages with this propert_**
+ 
 ![border](https://user-images.githubusercontent.com/85401880/122681054-2c96aa00-d1fb-11eb-930f-98fa9f7fa786.png)
 
 -we can control the _individual size _of borders by using these separate propirities:
