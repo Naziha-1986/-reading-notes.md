@@ -31,13 +31,32 @@ ems).
 
 ![border](https://i.ytimg.com/vi/RMNHZsDUZMo/maxresdefault.jpg)
 
-**Border**: The border separates the edge of one box from another.we can use border-width properity to control the width of a border.The value of this property can be:
+**Border**:
+The border separates the edge of one box from another.we can use border-width properity to control the width of a border.The value of this property can be:
 *  pixels
 *  thin
 * medium
 * thick
-
+ **_we can't use percentages with this propert_**
 ![border](https://user-images.githubusercontent.com/85401880/122681054-2c96aa00-d1fb-11eb-930f-98fa9f7fa786.png)
 
+-we can control the _individual size _of borders by using these separate propirities:
 
-## White space &Vertical Margin
+* border-top-width
+* border-right-width
+* border-bottom-width
+* border-left-width
+
+-we can control the style of a border using the **border-style** property. this property have these values:
+* solid :a single solid line.
+* dotted :a series of square dot.
+* dashed :a series of short lines.
+* double :two solid lines.
+* groove: appears to be carved into the page.
+* ridge :appears to stick out from the page.
+* inset :appears embedded into the page.
+* outset: looks like it is coming out of the screen.
+* hidden / none: no border is shown.
+* 
+-we can specify the color of a border using : **RGB values,hex codes or CSS color names**.
+## White space &Vertical Margin  
