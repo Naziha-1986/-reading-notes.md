@@ -31,7 +31,7 @@ ems).
 
 ![border](https://i.ytimg.com/vi/RMNHZsDUZMo/maxresdefault.jpg)
 
-### **Border**:
+1. ### **Border**:
 The border separates the edge of one box from another.we can use border-width properity to control the width of a border.The value of this property can be:
 *  pixels
 *  thin
@@ -61,5 +61,5 @@ The border separates the edge of one box from another.we can use border-width pr
 -we can specify the color of a border using : **RGB values,hex codes or CSS color names**.
 
 
-### **Padding **:
+2. ### **Padding **:
 
