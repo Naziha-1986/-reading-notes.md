@@ -92,7 +92,15 @@ The border separates the edge of one box from another.we can use border-width pr
 -we use if...else statement to check a condition.
 
 ![if](https://th.bing.com/th/id/OIP.NV8NIkn-qlHYXr1Bl93ScwHaE4?pid=ImgDet&rs=1)
+
 -if ... e1se statement allows you to provide two sets of code: 
 
 1. one set if the condition evaluates to true 
 2. another set if the condition is false 
+
+
+## Switch Statements:
+-it starts with a variable called the *switch* value.
+
+![switch](https://image3.slideserve.com/5437562/switch-statement-l.jpg)
+
