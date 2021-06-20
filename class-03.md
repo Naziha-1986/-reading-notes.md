@@ -108,6 +108,7 @@ The border separates the edge of one box from another.we can use border-width pr
 loops check conditions.if it is true, the code block will runm it will be repeated until the  condition return false.
 
 **There are 3 types of Loops:
+   * For Loops:
 
 ![for](https://i.ytimg.com/vi/gVgIEukJdjc/maxresdefault.jpg)
 
