@@ -111,4 +111,8 @@ loops check conditions.if it is true, the code block will runm it will be repeat
    * For Loops:
 
 ![for](https://i.ytimg.com/vi/gVgIEukJdjc/maxresdefault.jpg)
-
+    * While Loops
+    
+    ![while](https://codebuns.com/wp-content/uploads/2020/08/C-While-Loop-Syntax.jpg)
+    ![while2](https://media.geeksforgeeks.org/wp-content/uploads/20191118164726/While-Loop-GeeksforGeeks.jpg)
+    
