@@ -25,3 +25,8 @@ we use `<dt>` tag to contain the term being defined _(Defintion Term)_& use `<dd
 Boxes in HTML will appear as it defalut dimensions, so you ncan set your own dimensions for a box by using the height and width properties( use _pixels_, percentages, or 
 ems).
 
+## Border, Margin & Padding:
+
+![border](https://i.ytimg.com/vi/N6GN9M2ZKvM/maxresdefault.jpg)
+
+![border](https://i.ytimg.com/vi/RMNHZsDUZMo/maxresdefault.jpg)
