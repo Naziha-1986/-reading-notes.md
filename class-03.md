@@ -31,7 +31,11 @@ ems).
 
 ![border](https://i.ytimg.com/vi/RMNHZsDUZMo/maxresdefault.jpg)
 
-**Border**: The border separates the edge of one box from another.
+**Border**: The border separates the edge of one box from another.we can use border-width properity to control the width of a border.The value of this property can be:
+*  pixels
+*  thin
+* medium
+* thick
 
 ![border](https://user-images.githubusercontent.com/85401880/122681054-2c96aa00-d1fb-11eb-930f-98fa9f7fa786.png)
 
