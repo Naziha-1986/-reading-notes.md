@@ -65,3 +65,21 @@ The border separates the edge of one box from another.we can use border-width pr
 
 2. ### **Padding **:
 
+ -We use this property to specify how much space should appear between the content of an element and its border. 
+ 
+- The Values of padding properity:
+
+ * padding-top
+ * padding-right
+ * padding-bottom
+ * padding-left
+
+3. ### **Margin**:
+
+-it controls the gap between boxes.
+ -he Values of Margin  properity
+* margin-top
+* margin-right
+* margin-bottom
+* margin-left
+* 
