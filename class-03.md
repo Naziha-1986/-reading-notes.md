@@ -118,4 +118,7 @@ loops check conditions.if it is true, the code block will runm it will be repeat
     
   ![while](https://codebuns.com/wp-content/uploads/2020/08/C-While-Loop-Syntax.jpg)
   ![while2](https://media.geeksforgeeks.org/wp-content/uploads/20191118164726/While-Loop-GeeksforGeeks.jpg)
-    
+  
+    * Do while loops:
+   ![do while](https://th.bing.com/th/id/OIP.tuAlrEW7-tj8ei2IDLX7vwHaCY?pid=ImgDet&rs=1)
+   
