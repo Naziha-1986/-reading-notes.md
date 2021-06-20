@@ -104,3 +104,10 @@ The border separates the edge of one box from another.we can use border-width pr
 
 ![switch](https://image3.slideserve.com/5437562/switch-statement-l.jpg)
 
+## Loops:
+loops check conditions.if it is true, the code block will runm it will be repeated until the  condition return false.
+
+**There are 3 types of Loops:
+
+![for](https://i.ytimg.com/vi/gVgIEukJdjc/maxresdefault.jpg)
+
