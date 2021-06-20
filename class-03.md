@@ -88,3 +88,11 @@ The border separates the edge of one box from another.we can use border-width pr
 -You create an array and give it a name( just like variables) and The values are assigned to the array inside a pair of *square brackets*, and each value is separated by a *comma*.
 -**you can store a string, a number and a Boolean all in the same array because values in the array do not need to be the same data type**
 
+## If ...else statement:
+-we use if...else statement to check a condition.
+
+![if](https://th.bing.com/th/id/OIP.NV8NIkn-qlHYXr1Bl93ScwHaE4?pid=ImgDet&rs=1)
+-if ... e1se statement allows you to provide two sets of code: 
+
+1. one set if the condition evaluates to true 
+2. another set if the condition is false 
