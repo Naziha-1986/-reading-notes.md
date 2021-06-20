@@ -18,3 +18,10 @@ we use `<dt>` tag to contain the term being defined _(Defintion Term)_& use `<dd
    ** Nested Lists: when you put list inside list (the nested list should be inside a `<li>` element of the list in which it is nested).for example:
  
 ![nested lists](https://th.bing.com/th/id/R3136b9a4be3f2d8f8dd29dc90cfe3c61?rik=sT5BUmXLNDwjzA&pid=ImgRaw)
+
+## Boxes:
+### Boxes Dimensions (width, height):
+
+Boxes in HTML will appear as it defalut dimensions, so you ncan set your own dimensions for a box by using the height and width properties( use _pixels_, percentages, or 
+ems).
+
