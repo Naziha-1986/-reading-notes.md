@@ -33,6 +33,8 @@ _Semantic markup_: it is **extra information**,for example: quotation.
 `Answer` You can create a paragraph by surrounding the words that make up the paragraph with an opening tag `<p>` and closing tag `</p>`.
 
 
+
+
 ![p](https://th.bing.com/th/id/R4897450798aa034b2490500c5d99c3c7?rik=prTdJiFaL3AODw&pid=ImgRaw)
 
 `Question #5`:**What is the difference between `<b>` & `<i>`?**
@@ -263,6 +265,15 @@ that attribute.**
 ![arithmetic](https://th.bing.com/th/id/R3a5c9dd36d901fab6511515e58157266?rik=ErQliReoXzTczA&pid=ImgRaw)
 
 
+
+## Conditional Statement:
+
+![cs](https://th.bing.com/th/id/Rf935caf4435eef8d58b8047ba75807ab?rik=U6Fqnmi%2bN9XSLA&pid=ImgRaw)
+![cs2](https://computerhindinotes.com/wp-content/uploads/2018/06/comparison-operator-1.jpg)
+
+## Logical Operators:
+
+![logical operator](https://th.bing.com/th/id/R8921de3d55f2b2f89f015a56620bf068?rik=6yaPPWugDkgp0w&riu=http%3a%2f%2fwww.startertutorials.com%2fcorejava%2fwp-content%2fuploads%2f2014%2f10%2fLogical-operators.jpg&ehk=VNa0b7RoTuZPP6GRqgw9GFui%2b45aIAUx324sxNjLBgo%3d&risl=&pid=ImgRaw)
 
 
 
