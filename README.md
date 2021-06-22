@@ -60,7 +60,7 @@ Nice to meet you all.
 |Read:02|[class-02](https://naziha-1986.github.io/reading-notes.md/class-02)     |
 |Read:03| [class-03](https://naziha-1986.github.io/reading-notes.md/class-03)    |
 |Read:04| [class-04](https://naziha-1986.github.io/reading-notes.md/class-04)    |
-|Read:05| [link]()    |
+|Read:05| [class-05](https://naziha-1986.github.io/reading-notes.md/class05)    |
 |Read:06|[link]()     |
 |Read:07|[link]()     |
 |Read:08|[link]()     | 
