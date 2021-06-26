@@ -1,0 +1,86 @@
+## *Layout:
+
+-we use layout  to control where each element sits on the page and how to create attractive page layouts.
+-CSS deals with each HTML element as if it is in its _own box_.this box will be **Block box**(start  on a new line ) or **inline box**(continue in the same line).
+
+![block and imline](data:image/jpeg;base64,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)
+
+
+`Question` **What is  containing or parent element?**
+
+`Answer`
+when one block-level element sits inside another block-level element.
+![parent](https://i.stack.imgur.com/BpIFY.jpg)
+
+### Controlling the Position of Elements:
+-you can use **positioning schemes** in CSS that allow you to control 
+the layout of a page by using:
+*  normal flow(defult):`position:static`, each block-level element sits on top of the next one. 
+
+ * relative positioning :`position:relative`moves an 
+element in relation to where it  6would have been in normal flow.
+ * absolute positioning: `position:absolute`.
+
+### Floating elements `float`:
+![float](https://th.bing.com/th/id/R84798aced356387af7c933d8810f7aef?rik=taC3JYG5D%2bnoTQ&pid=ImgRaw)
+
+-you can flow an element and place it as far to the left or right of the containing element as possible.
+
+-`clear`: it allows you to say that no element (within the same containing element) should touch the left or righthand sides of a box.
+-`float:left`
+The left-hand side of the box
+should not touch any other elements appearing in the same containing element.
+-`float right`
+The right-hand side of the box will not touch elements appearing in the same containing element
+![left & rirht](https://th.bing.com/th/id/Ra057022c32b9c277048b1f39d6a7b1d7?rik=QIeU%2baBEh9l8JQ&pid=ImgRaw)
+
+`float both`
+Neither the left nor right-hand sides of the box will touch elements appearing in the same containing element.
+`float none`
+Elements can touch either side.
+
+-If a containing element only
+contains floated elements, some browsers will treat it as if it is zero pixels tall.
+
+**Fixed Width Layouts**
+Fixed width layout designs do not
+change size as the user increases or decreases the size of their browser window.
+
+**Advantages:**
+
+*  Pixel values are accurate 
+at controlling size and positioning of elements.
+* The designer has far greater control over the appearance and position of items on the page than with liquid layouts.
+* You can control the lengths of lines of text regardless of the size of the user's window.
+* The size of an image will always remain the same relative to the rest of the page.
+
+**Disadvantages**
+
+* You can end up with big gaps 
+around the edge of a page.
+* If the user's screen is a much higher resolution than the designer's screen, the page can look smaller and text can be harder to read.
+* If a user increases font sizes,
+text might not fit into the allotted spaces.
+* The design works best on devices that have a site or resolution similar to that of desktop or laptop computers.
+* The page will often take up more vertical space than a liquid layout with the same content.
+
+**CSS Frameworks**:
+it aim to make your life easier by providing the code for common tasks, such as creating layout grids, styling forms, creating printer-friendly versions of pages and so on.
+
+**Advantages:**
+
+* They save you from repeatedly writing code for the same tasks.
+* They will have been tested across different browser versions (which helps avoid browser bugs).
+
+**Disadvantages**
+
+* They often require that you use class names in your HTML code that only control the presentation of the page (rather than describe its content.
+* In order to satisfy a wide variety of needs, they often contain more code than you need for your particular web page (commonly referred to as code “bloat”).
+
+**Multiple style sheets:**
+`@import`
+-Some web page authors split up their CSS style rules into separate style sheets. For example, they might use one style sheet to control the layout and another to control fonts, colors and so on.
+-There are two ways to add multiple style sheets to a page:
+1: Your HTML page can link to one style sheet and that stylesheet can use the `@import`rule to import other style sheets.
+2: In the HTML you can use a
+separate  element for each style sheet.
