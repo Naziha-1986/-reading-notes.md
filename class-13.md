@@ -1,5 +1,7 @@
 ## THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS:
 
+![storage](https://th.bing.com/th/id/OIF.fQ6iA9OYWgfX9EPlBvoQIQ?pid=ImgDet&rs=1)
+
 * Persistent local storage is one of the areas where native client applications have held an advantage over web applications.
 
 * Cookies were invented early in the web’s history, and indeed they can be used for persistent local storage of small amounts of data. But they have three potentially dealbreaking downsides:
