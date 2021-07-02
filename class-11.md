@@ -39,4 +39,28 @@ The background image moves up and down as the user scrolls up and down the page.
 ![position](https://th.bing.com/th/id/OIP.QoHmVqcB0vU--dypc5iEywHaE0?pid=ImgDet&rs=1)
 
 
-##
+## Practical Information:
+
+-In every page of your website there are seven key places where keywords (the words people might search on to find your site) can appear in order to improve its findability.
+1. Page Title
+2. URL / Web Address
+3. Headings
+4. Tex
+5. Link Text
+6. Image Alt Text
+7. Page Descriptions
+
+## Video and Audio APIs:
+-The `<video>` and `<audio>` elements allow us to embed video and audio into web pages.
+
+
+![video](https://www.wikitechy.com/step-by-step-html-tutorials/attributes/img/attributes-images/code-explanation-controls-attribute-in-html.png)
+
+
+![video](https://i.ytimg.com/vi/BntO6Xb6IVM/hqdefault.jpg)
+
+-One big issue with the native browser controls is that they are different in each browser — not very good for cross-browser support! Another big issue is that the native controls in most browsers aren't very keyboard-accessible.
+
+* to solve this issue we use `<controls>` attribute.
+![video](https://www.codegrepper.com/codeimages/html-video-autoplay.png)
+
