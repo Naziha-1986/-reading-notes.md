@@ -58,9 +58,9 @@ Nice to meet you all.
 | ----------    | ----------- |
 | Read:01|[class-01](https://naziha-1986.github.io/reading-notes.md/class-01)    |
 |Read:02|[class-02](https://naziha-1986.github.io/reading-notes.md/class-02)     |
-|Read:03| [class-03](https://naziha-1986.github.io/reading-notes.md/class-03)    |
-|Read:04| [class-04](https://naziha-1986.github.io/reading-notes.md/class-04)    |
-|Read:05| [class-05](https://naziha-1986.github.io/reading-notes.md/class05)    |
+|Read:03|[class-03](https://naziha-1986.github.io/reading-notes.md/class-03)    |
+|Read:04|[class-04](https://naziha-1986.github.io/reading-notes.md/class-04)    |
+|Read:05|[class-05](https://naziha-1986.github.io/reading-notes.md/class05)     |
 |Read:06|[class-06](https://naziha-1986.github.io/reading-notes.md/class-06)     |
 |Read:07|[class-07](https://naziha-1986.github.io/reading-notes.md/class-07)     |
 |Read:08|[class-08](https://naziha-1986.github.io/reading-notes.md/class-08)     | 
@@ -70,4 +70,4 @@ Nice to meet you all.
 |Read:12|[class-12](https://naziha-1986.github.io/reading-notes.md/class-12)     |
 |Read:13|[class-13](https://naziha-1986.github.io/reading-notes.md/class-13)     |
 |Read:14|[class-14](https://naziha-1986.github.io/reading-notes.md/class-14)     |
-|Read:15|[class-14b](https://naziha-1986.github.io/reading-notes.md/class-14b)     |
+|Read:15|[class-14b](https://naziha-1986.github.io/reading-notes.md/class-14b)   |
