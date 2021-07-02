@@ -1,8 +1,8 @@
-##Images:
+## Images:
 ![image](https://th.bing.com/th/id/OIP.W7pzwbeLI9XXsQNDJkI2igHaEo?pid=ImgDet&rs=1)
 ![image tag](https://th.bing.com/th/id/OIP.GA3n8wjBQwOzXCxalQyImgHaEP?pid=ImgDet&rs=1)
 
-###Controlling images size:
+### Controlling images size:
 
 -You can control the size of an image using the width and height properties in CSS, just like you can for any other box. 
 
